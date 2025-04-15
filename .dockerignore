@@ -1,0 +1,8 @@
+.dockerignore
+*.md
+**/__pycache__/
+lesta-venv/
+.gitignore
+docker-compose.yaml
+Dockerfile
+.devcontainer/
